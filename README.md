@@ -7,3 +7,5 @@ Project Contains
 - Method for splitting the inputs into tuples (3) 
 - Method for machine learning perceptron (Step)
 - Method for machine learning perceptron (Sigmoid) 
+- ACW report based on simulation 
+- Excel Sheets for error evaluation
